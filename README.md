@@ -96,4 +96,7 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
-this will helap as to go and get what ever we want frim this what we want to geee akaeafdufh dhfijdsfuhdsf 
+this will helap as to go and get what ever we want frim this what we want to geee akaeafdufh dhfijdsfuhdsf
+
+to run this app make sure ti write npx react-native start
+and check the backed endpoint to use smoothly

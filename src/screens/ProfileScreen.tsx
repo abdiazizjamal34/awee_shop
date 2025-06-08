@@ -1,13 +1,13 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
-const HomeScreen = () => {
+const ProfileScreen = () => {
   return (
 
     <>
     
     <View style={styles.greating}>
-      <Text style={styles.title}>Welcome </Text>
+      <Text style={styles.title}>Profile </Text>
     </View><View style={styles.container}>
         <Text style={styles.title}> AWEE Shop</Text>
       </View>
@@ -17,7 +17,7 @@ const HomeScreen = () => {
   );
 };
 
-export default HomeScreen;
+export default ProfileScreen;
 
 const styles = StyleSheet.create({
   container: {
